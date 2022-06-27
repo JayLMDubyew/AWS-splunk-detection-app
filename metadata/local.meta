@@ -1,0 +1,17 @@
+[app/ui]
+version = 9.0.0
+modtime = 1656286996.978561000
+
+[app/launcher]
+version = 9.0.0
+modtime = 1656286996.979859000
+
+[props/aws%3Acloudtrail_exfil]
+owner = admin
+version = 9.0.0
+modtime = 1656287145.758510000
+
+[props/csv_honeybucketlogs]
+owner = admin
+version = 9.0.0
+modtime = 1656287882.204871000
