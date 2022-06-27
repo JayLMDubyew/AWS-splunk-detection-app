@@ -1,8 +1,10 @@
 # AWS-splunk-detection-app
 Because cloud and apparently people don't think I can splunk or regex despite not giving me a test on those skills/actually useful interview questions, so here we are.
 
+aws:cloudtrail-exfil sourcetype is based on aws:cloudtrail from the AWS splunk add-on, with some small tweaks.
+
 current plan:
-perform field extactions for:
+perform field extactions for honeybuckets:
 https://github.com/OTRF/Security-Datasets/tree/master/datasets/atomic/aws
 
 - Demonstrates basic understanding of regex and splunk functionality
