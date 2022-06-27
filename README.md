@@ -6,7 +6,7 @@ perform field extactions for:
 https://github.com/OTRF/Security-Datasets/tree/master/datasets/atomic/aws
 
 - Demonstrates basic understanding of regex and splunk functionality
-- Demonstrates basic understanding of how the CIM model works (spoiler: read the manual)
+- Demonstrates basic understanding of how the CIM model works (spoiler: I read the manual.)
 
 create content based off of that.
 
