@@ -15,3 +15,33 @@ modtime = 1656287145.758510000
 owner = admin
 version = 9.0.0
 modtime = 1656287882.204871000
+
+[props/csv_honeybucketlogs/EXTRACT-vendor_region]
+export = none
+owner = admin
+version = 9.0.0
+modtime = 1656293437.203207000
+
+[props/csv_honeybucketlogs/EXTRACT-src]
+export = none
+owner = admin
+version = 9.0.0
+modtime = 1656293449.428929000
+
+[props/csv_honeybucketlogs/EXTRACT-http_user_agent]
+export = none
+owner = admin
+version = 9.0.0
+modtime = 1656293463.386114000
+
+[props/csv_honeybucketlogs/EXTRACT-dest]
+export = none
+owner = admin
+version = 9.0.0
+modtime = 1656293470.784599000
+
+[props/csv_honeybucketlogs/EXTRACT-bucket_name]
+export = none
+owner = admin
+version = 9.0.0
+modtime = 1656293479.727509000
