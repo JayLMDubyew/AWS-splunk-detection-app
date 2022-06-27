@@ -1,5 +1,5 @@
 # AWS-splunk-detection-app
-Because cloud and apparently people don't think I can splunk or regex despite not giving me a test on those skills/actually useful interview questions, so here we are.
+Because cloud and apparently people don't think I can splunk or regex despite not actually asking me if I can.
 
 aws:cloudtrail-exfil sourcetype is based on aws:cloudtrail from the AWS splunk add-on, with some small tweaks.
 
